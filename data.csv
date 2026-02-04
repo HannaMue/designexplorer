@@ -1,0 +1,12 @@
+in:Span,in:Side height,in:Trust Type,in:Segments,in:Midspan deflection,in:Shape exponent,in:Krümmungsanteil,in:MaterialSwitch bottom,in:MaterialSwitch top,in:MaterialSwitch right_dia,in:MaterialSwitch left_dia,in:MaterialSwitch vertical,in:MaterialSwitch column,in:TIMBER Type Switch bottom,in:TIMBER Type Switch top,in:TIMBER Type Switch right dia,in:TIMBER Type Switch left dia,in:TIMBER Type Switch vertical,in:TIMBER Type Switch column,in:STEEL CrossSectionSwitch bottom,in:STEEL CrossSectionSwitch top,in:STEEL CrossSectionSwitch right Diagonal,in:STEEL CrossSectionSwitch left Diagonal,in:STEEL CrossSectionSwitch vertical,in:STEEL CrossSectionSwitch column,in:Diameter_bottom,in:Diameter_top,in:Diameter_r_diagonal,in:Diameter_l_diagonal,in:Diameter_vertical,in:Diameter_column,in:Number of bars_bottom,in:Number of bars_top,in:Number of bars_r_diagonal,in:Number of bars_l_diagonal,in:Number of bars_vertical,in:Number of bars_column,out:wlc_Minimise_CO2,out:imgFile,img
+30,1.7,2,12,3.44,1.26,0.73,0,0,0,0,0,0,14,5,9,10,0,12,4,0,0,3,0,0,2,0,1,0,0,1,7,11,1,0,10,3,1064.884637,img_7322.png,img_7322_Front.png
+30,1.7,2,12,3.44,1.26,0.73,0,0,0,0,0,0,14,5,8,10,0,11,4,0,0,3,0,0,2,0,1,0,0,1,7,10,1,0,9,3,1064.884637,img_7323.png,img_7323_Front.png
+30,1.7,2,12,3.44,1.26,0.73,0,0,0,0,0,0,14,3,8,10,0,12,4,0,0,3,0,0,1,0,1,0,0,1,7,10,1,0,9,3,1064.884637,img_7324.png,img_7324_Front.png
+30,1.7,2,12,3.44,1.26,0.73,0,0,0,0,0,0,14,5,8,10,0,11,4,0,0,3,0,0,2,0,1,0,0,1,7,10,0,0,9,3,1064.884637,img_7325.png,img_7325_Front.png
+30,1.7,2,12,3.44,1.26,0.73,0,0,0,0,0,0,14,5,8,11,0,12,4,0,0,3,0,0,1,0,1,0,0,1,7,11,1,0,9,3,1064.884637,img_7326.png,img_7326_Front.png
+30,1.7,2,12,3.44,1.26,0.73,0,0,0,0,0,0,14,5,9,10,0,12,4,0,0,3,0,0,2,0,1,0,0,1,7,10,1,0,9,3,1064.884637,img_7327.png,img_7327_Front.png
+30,1.7,2,12,3.44,1.26,0.73,0,0,0,0,0,0,14,5,9,10,0,12,4,0,1,3,0,0,2,0,0,0,0,1,7,11,1,0,9,3,1064.884637,img_7328.png,img_7328_Front.png
+30,1.7,2,12,3.44,1.26,0.73,0,0,0,0,0,0,15,6,9,9,0,12,4,0,0,3,0,0,2,0,1,0,0,1,7,10,1,0,9,3,1064.884637,img_7329.png,img_7329_Front.png
+30,1.7,2,12,3.44,1.26,0.73,0,0,0,0,0,0,14,6,9,10,0,11,4,0,0,3,0,0,2,0,1,0,0,1,7,10,1,0,9,3,1064.884637,img_7330.png,img_7330_Front.png
+30,1.7,2,12,3.44,1.26,0.73,0,0,0,0,0,0,14,5,9,9,0,12,4,0,0,3,0,0,2,0,1,0,0,1,7,10,1,0,9,3,1064.884637,img_7331.png,img_7331_Front.png
+30,1.7,2,12,3.44,1.26,0.73,0,0,0,0,0,0,13,5,9,10,0,12,4,0,0,3,0,0,2,0,1,0,0,1,7,10,1,0,9,3,1064.884637,img_7332.png,img_7332_Front.png
